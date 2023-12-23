@@ -1,7 +1,7 @@
 ### ![A cat loafing next to three prop cats.](images/cat_banner.png)
 
 [![Repositories](https://badges.pufler.dev/repos/Surasia?style=for-the-badge&logo=github&label=Repositories)](https://github.com/Surasia)
-[![Yearly Commits](https://badges.pufler.dev/commits/yearly/Surasia?style=for-the-badge&logo=github&label=Yearly+Commits)](https://github.com/Surasia)
+[![Public Commits](https://badges.pufler.dev/commits/all/Surasia?style=for-the-badge&logo=github&label=Public+Commits)](https://github.com/Surasia)
 [![Twitter](https://img.shields.io/twitter/follow/Surasia_?logo=twitter&style=for-the-badge)](https://twitter.com/Surasia_)
 
 ## 🧾 About me :3
