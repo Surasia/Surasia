@@ -4,4 +4,4 @@
 
 ## 🧾 About me
 
-Hi! I'm Surasia, a self-taught 3D artist and programmer working on improving my skills in programming.
+Hi! I'm Surasia, a self-taught 3D artist and programmer working on improving my skills in reverse engineering.
