@@ -9,7 +9,7 @@ Hi! I'm Surasia, a self-taught 3D artist and junior developer working on various
 - [libpyinfinite](https://github.com/Surasia/libpyinfinite): A typed python library for parsing Halo Infinite binary files.
 
 <div style="display: flex; justify-content: space-between;">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surasia&layout=compact&show_icons=true&theme=dark&hide_border=true"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surasia&layout=compact&show_icons=true&theme=dark&hide_border=true&langs_count=8"/>
   <img alt="Statistics" src="https://github-readme-stats.vercel.app/api?username=Surasia&show_icons=true&theme=dark&hide_border=true"/>
 </div>
 
