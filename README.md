@@ -6,7 +6,7 @@ Hi! I'm Surasia, a self-taught 3D artist and junior developer working on various
 ## 👨‍💻 Projects
 - [InfiniteExt](https://github.com/Surasia/InfiniteExt): A customizable DLL Hook for Halo Infinite for interacting with the built-in HavokScript VM and tag system written in C++.
 - [hkscdis-rs](https://github.com/Surasia/hkscdis-rs): A HavokScript 5.1 disassembler written in Rust.
-- [libpyinfinite](https://github.com/Surasia/libpyinfinite): A typed python library for parsing Halo Infinite binary files.
+- [infinite-rs](https://github.com/Surasia/infinite-rs): A simple and fast deserialization library for Halo Infinite.
 
 <div style="display: flex; justify-content: space-between;">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surasia&layout=compact&show_icons=true&theme=dark&hide_border=true&langs_count=8"/>
