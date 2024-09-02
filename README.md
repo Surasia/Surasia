@@ -1,7 +1,7 @@
 ### ![A cat loafing next to three prop cats.](images/cat_banner.png)
 # 🧾 About me
 
-Hi! I'm Surasia, a self-taught 3D artist and junior developer working on various reverse engineering projects. I occasionaly write blog posts on my [personal blog](https://surasia.github.io/), relating to recent projects. I aim to keep my code **readable**, **self-documenting**, **extensible** and **consistent**- avoiding (especially performance heavy!) abstractions whenever possible. My current goals are writing more Rust and GUI apps.
+Hi! I'm Surasia, a self-taught 3D artist and developer working on various reverse engineering (mostly related to Halo!) projects. I occasionaly write blog posts on my [personal blog](https://surasia.github.io/), relating to recent projects. My current goals are writing more Rust and GUI apps.
 
 ## 👨‍💻 Projects
 - [InfiniteExt](https://github.com/Surasia/InfiniteExt): A customizable DLL Hook for Halo Infinite for interacting with the built-in HavokScript VM and tag system written in C++.
@@ -17,4 +17,4 @@ Hi! I'm Surasia, a self-taught 3D artist and junior developer working on various
 I'm available week days after 3PM UTC and on weekends.
 - [Twitter](https://twitter.com/Surasia_)
 - [Youtube](https://youtube.com/@Surasia)
-- [Discord: ]()Surasia
+- [Discord:](https://discord.com/invite/haloarchive) Surasia
